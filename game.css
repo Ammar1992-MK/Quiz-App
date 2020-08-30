@@ -50,11 +50,13 @@
 
     text-align: center;
     font-size : 2rem;
+    color:  #56daeb;
 }
 
 .hud-main-text{
 
     text-align: center;
+    color :  #56daeb;
 
 }
 #progressBar{

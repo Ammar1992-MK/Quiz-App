@@ -1,28 +1,63 @@
 [
     {
-        "question" : "Inside which HTML element fo we put the JavaScript??",
-        "choice1" : "<script>",
-        "choice2" : "<javascript>",
-        "choice3" : "<js>",
-        "choice4" : "<scripting>",
-        "answer": 1
-    },
-
-    {
-        "question" : "What is the correct suntax for referring to an external script called 'xxx.js'?",
-        "choice1" : "<script href = 'xxx.js'>",
-        "choice2 ": "<script name ='xxx.js'>?",
-        "choice3" : "<script src = 'xxx.js'>?",
-        "choice4" : "<script file = 'xxx.js'>?",
+        "question" : "Hva het Frend Digital AS da det ble startet i 2012 ",
+        "choice1" : "Software Application AS",
+        "choice2" : "Frend skyløsninger AS",
+        "choice3" : "Henrik Ruuds Eplehjelp AS",
+        "choice4" : "Zentix AS",
         "answer": 3
     },
 
     {
-        "question": "How do you write 'Hello World' in an alert box ?",
-        "choice1" : "msgBox('Hello World');",
-        "choice2" : "alertBox('Hello World');",
-        "choice3" : "msg('Hello World');",
-        "choice4" : "alert('Hello World')",
+        "question" : "Hvilke tjenester ble levert av Frend Digital da de først startet? ",
+        "choice1" : "Apple-support",
+        "choice2 ": "Web-utvikling",
+        "choice3" : "PC",
+        "choice4" : "sikkerhet",
+        "answer": 1
+    },
+
+    {
+        "question": "Hvilken av de følgende tjenestene leverer Frend Digital idag?",
+        "choice1" : "Domene-hosting",
+        "choice2" : "Ethical-Hacking",
+        "choice3" : "Mobil-operatør",
+        "choice4" : "Software-utvikling",
+        "answer": 4
+    },
+    {
+        "question": "Hva heter daglig lederen i Frend Digital AS?",
+        "choice1" : "Per sandber",
+        "choice2" : "Johannes halvorsen",
+        "choice3" : "Martin fossedal",
+        "choice4" : "Ammar Khalil",
+        "answer": 3
+    },
+    {
+        "question": "Hva heter leder for utvikling i Frend Digital?",
+        "choice1" : "Haavard østigaard",
+        "choice2" : "Håken røsten",
+        "choice3" : "Andreas alm",
+        "choice4" : "Herman halvorsen",
+        "answer": 4
+    },
+
+    {
+        "question": "Hvor mange ansatte er det i Frend ?",
+        "choice1" : "30",
+        "choice2" : "11",
+        "choice3" : "3",
+        "choice4" : "15",
+        "answer": 2
+    },
+    {
+        "question": "hva er snittalderen blant de ansatte i Frend ?",
+        "choice1" : "46",
+        "choice2" : "50",
+        "choice3" : "30",
+        "choice4" : "26",
         "answer": 4
     }
+    
+  
 ]

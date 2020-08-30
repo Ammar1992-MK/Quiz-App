@@ -1,27 +1,24 @@
-
+// HTML objects
 const username = document.getElementById("username");
 const saveScoreButton = document.getElementById("saveScoreButton");
-const mostRecentScore = localStorage.getItem("mostRecentScore");
 const finalScore = document.getElementById("finalScore");
 
+// Get data from localStorage
+const mostRecentScore = localStorage.getItem("mostRecentScore");
 const highScores = JSON.parse(localStorage.getItem("highScores")) || [];
 
 const MAX_HIGH_SCORES = 5;
 
 finalScore.innerHTML = mostRecentScore;
 
+//Disable button if user name is empty
 username.addEventListener("keyup", () =>{
-
     saveScoreButton.disabled = !username.value;
-
-
 })
 
 
 function saveHighScore (e){
-
     e.preventDefault();
-
     const score = {
 
         points : mostRecentScore,

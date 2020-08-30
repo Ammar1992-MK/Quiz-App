@@ -1,6 +1,6 @@
 :root{
 
-    background-color: #ecf5ff;
+    background-color: #242b33;
     font-size : 62.5%;
 }
 
@@ -15,12 +15,13 @@
 h1,h2,h3,h4 {
 
     margin-bottom: 1rem;
+    color :  #56daeb;
 }
 
 h1 {
 
     font-size : 5.4rem;
-    color : #56a5eb;
+    color : #56daeb;
     margin-bottom: 5rem;
 }
 
